@@ -3,6 +3,14 @@
 <!--
 **almawamanpower/almawamanpower** 
 <h1>ALMAWA RECRUITMENT</h1>
+<p>
+<a href="index.html">Home</a> |
+<a href="about.html">About Us</a> |
+<a href="services.html">Services</a> |
+<a href="employers.html">Employers</a> |
+<a href="careers.html">Careers</a> |
+<a href="contact.html">Contact Us</a>
+</p>
 <p><a href="about.html">About Us</a></p>
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
